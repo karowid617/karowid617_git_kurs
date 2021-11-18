@@ -1,3 +1,3 @@
 print('hello world')
 
-print('pomyłkowa zmiana')
+print('jeszcze inna, revertowa pomyłka')
